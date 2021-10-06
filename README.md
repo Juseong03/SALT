@@ -1,2 +1,2 @@
 # SALT
-## SALT : Sharing Attentio between Linear layer and Transformer for tabular dataset
+## SALT : Sharing Attention between Linear layer and Transformer for tabular dataset
